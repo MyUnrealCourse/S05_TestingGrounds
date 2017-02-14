@@ -7,4 +7,6 @@ This small game is built over many lectures during the Unreal Editor Developer c
 * Initial Commit
 * TG01 GDD
 * TG02 Setting Up the Github Repository
-* TG03 Creating and Deleting Landscapes
+* TG03 Using git clean to revert to previous commit
+* TG04 First Person Character Overview
+
