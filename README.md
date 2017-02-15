@@ -17,4 +17,5 @@ This small game is built over many lectures during the Unreal Editor Developer c
 * TG10 Blueprint Behavior Tree Tasks
 * TG11 Modular Arithmatic and Cycles
 * TG12 C++ AI Behavior Tree Tasks
+* TG13 Reading Blackboard data in C++
 
