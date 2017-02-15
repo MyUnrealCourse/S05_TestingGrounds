@@ -15,4 +15,6 @@ This small game is built over many lectures during the Unreal Editor Developer c
 * TG08 Target Points and Patrol Routes
 * TG09 Using Any Actor for Waypoints
 * TG10 Blueprint Behavior Tree Tasks
+* TG11 Modular Arithmatic and Cycles
+* TG12 C++ AI Behavior Tree Tasks
 
