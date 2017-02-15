@@ -9,4 +9,5 @@ This small game is built over many lectures during the Unreal Editor Developer c
 * TG02 Setting Up the Github Repository
 * TG03 Using git clean to revert to previous commit
 * TG04 First Person Character Overview
+* TG05 Adding Third Person AI Character
 
