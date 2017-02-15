@@ -14,3 +14,5 @@ This small game is built over many lectures during the Unreal Editor Developer c
 * TG07 Introducing AI Blackboards
 * TG08 Target Points and Patrol Routes
 * TG09 Using Any Actor for Waypoints
+* TG10 Blueprint Behavior Tree Tasks
+
